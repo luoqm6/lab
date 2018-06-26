@@ -1,13 +1,12 @@
 <resources>
-    <string name="app_name">Lab</string>
+    <string name="app_name">WebSecurity</string>
     <string name="title">中山大学学生信息系统</string>
-    <string name="graph">sysugraph</string>
-    <string name="sid">学号：</string>
-    <string name="hint1">请输入学号</string>
-    <string name="skey">密码：</string>
+    <string name="graph">sysuGraph</string>
+    <string name="hint1">请输入账号</string>
     <string name="hint2">请输入密码</string>
+    <string name="hint3">再次输入密码</string>
     <string name="student1">学生</string>
     <string name="staff">教职工</string>
-    <string name="button1">登录</string>
-    <string name="button2">注册</string>
+    <string name="SButton1">登录</string>
+    <string name="SButton2">注册</string>
 </resources>
